@@ -4,7 +4,7 @@ Pretendo com esse repositório colocar os exercícios desenvolvidos e resumos co
 #### Objetivos:
 Status                    | Capítulo
 ------------------------- | -------------
-<ul><li>- [ ] </li></ul>  | Introdução
+<ul><li>- [x] </li></ul>  | Introdução
 <ul><li>- [ ] </li></ul>  | Configurando o ambiente de desenvolvimento
 <ul><li>- [ ] </li></ul>  | Criando uma rede social real-time
 <ul><li>- [ ] </li></ul>  | Implementando uma timeline de posts
