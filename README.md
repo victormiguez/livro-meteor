@@ -4,19 +4,19 @@ Pretendo com esse repositório colocar os exercícios desenvolvidos e resumos co
 #### Objetivos:
 Status | Capítulo
 ------ | -------------
-- [ ]  | 1 Introdução
-- [ ]  | 2 Configurando o ambiente de desenvolvimento
-- [ ]  | 3 Criando uma rede social real-time
-- [ ]  | 4 Implementando uma timeline de posts
-- [ ]  | 5 Signin e Signup de usuários
-- [ ]  | 6 Perfil do usuário
-- [ ]  | 7 Tela de perfil público do usuário
-- [ ]  | 8 Follow me I will follow you
-- [ ]  | 9 Publications e Subscriptions
-- [ ]  | 10 Testes, testes e mais testes
-- [ ]  | 11 Integração contínua noMeteor
-- [ ]  | 12 Preparando para produção
-- [ ]  | 13 Mais otimizações para produção
-- [ ]  | 14 Hospedando uma aplicaçãoMeteor
-- [ ]  | 15 Como organizar um projetoMeteor
-- [ ]  | 16 Continuando os estudos 
+- [ ]  | Introdução
+- [ ]  | Configurando o ambiente de desenvolvimento
+- [ ]  | Criando uma rede social real-time
+- [ ]  | Implementando uma timeline de posts
+- [ ]  | Signin e Signup de usuários
+- [ ]  | Perfil do usuário
+- [ ]  | Tela de perfil público do usuário
+- [ ]  | Follow me I will follow you
+- [ ]  | Publications e Subscriptions
+- [ ]  | Testes, testes e mais testes
+- [ ]  | Integração contínua noMeteor
+- [ ]  | Preparando para produção
+- [ ]  | Mais otimizações para produção
+- [ ]  | Hospedando uma aplicaçãoMeteor
+- [ ]  | Como organizar um projetoMeteor
+- [ ]  | Continuando os estudos 
