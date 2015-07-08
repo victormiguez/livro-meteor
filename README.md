@@ -1,5 +1,5 @@
 # Livro Meteor
-Pretendo com esse repositório colocar os exercícios desenvolvidos e resumos com o que entendi de cada capítulo do livro "Meteor - Criando aplicações web real-time com JavaScript".
+Pretendo com esse repositório colocar os exercícios desenvolvidos e um [resumo](resumo.md) com o que entendi de cada capítulo do livro [Meteor - Criando aplicações web real-time com JavaScript](http://www.casadocodigo.com.br/products/livro-meteor).
 
 #### Objetivos:
 Status                    | Capítulo
