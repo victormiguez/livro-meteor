@@ -17,3 +17,17 @@ Ele possui seu próprio [package manager](https://atmospherejs.com/), mas pode u
 Neste capítulo o autor faz um passo a passo de como instalar tudo o que é necessário para desenvolvermos aplicações com Meteor.
 Depois disso ele faz uma breve explicação de código com um projeto "Hello World" do próprio framework.
 
+# Criando uma rede social real-time
+
+## Projeto piloto: MeteorBird
+Aqui o autor apresenta o projeto que desenvolveremos no decorrer do livro, o MeteorBird, que será uma rede social similar ao Twitter porém desenvolvida totalmente com Meteor.
+
+## Funcionalidades da aplicação
+- Atualizações da timeline em real-time;
+- Sign-up através de e-mail e senha;
+- Sign-up através de uma conta no Facebook;
+- Acessar perfil de um usuário;
+- Follow e unfollow de posts de um usuário;
+
+## Criando o projeto
+Comandos básicos para iniciarmos o projeto. Depois disso já criamos algumas pastas que serão a estrutura da aplicação.
