@@ -14,9 +14,9 @@ Status                    | Capítulo
 <ul><li>- [ ] </li></ul>  | Follow me I will follow you
 <ul><li>- [ ] </li></ul>  | Publications e Subscriptions
 <ul><li>- [ ] </li></ul>  | Testes, testes e mais testes
-<ul><li>- [ ] </li></ul>  | Integração contínua noMeteor
+<ul><li>- [ ] </li></ul>  | Integração contínua no Meteor
 <ul><li>- [ ] </li></ul>  | Preparando para produção
 <ul><li>- [ ] </li></ul>  | Mais otimizações para produção
-<ul><li>- [ ] </li></ul>  | Hospedando uma aplicaçãoMeteor
-<ul><li>- [ ] </li></ul>  | Como organizar um projetoMeteor
+<ul><li>- [ ] </li></ul>  | Hospedando uma aplicação Meteor
+<ul><li>- [ ] </li></ul>  | Como organizar um projeto Meteor
 <ul><li>- [ ] </li></ul>  | Continuando os estudos
