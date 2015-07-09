@@ -7,7 +7,7 @@ Status                    | Capítulo
 <ul><li>- [x] </li></ul>  | Introdução
 <ul><li>- [x] </li></ul>  | Configurando o ambiente de desenvolvimento
 <ul><li>- [x] </li></ul>  | Criando uma rede social real-time
-<ul><li>- [ ] </li></ul>  | Implementando uma timeline de posts
+<ul><li>- [x] </li></ul>  | Implementando uma timeline de posts
 <ul><li>- [ ] </li></ul>  | Signin e Signup de usuários
 <ul><li>- [ ] </li></ul>  | Perfil do usuário
 <ul><li>- [ ] </li></ul>  | Tela de perfil público do usuário
@@ -19,4 +19,4 @@ Status                    | Capítulo
 <ul><li>- [ ] </li></ul>  | Mais otimizações para produção
 <ul><li>- [ ] </li></ul>  | Hospedando uma aplicaçãoMeteor
 <ul><li>- [ ] </li></ul>  | Como organizar um projetoMeteor
-<ul><li>- [ ] </li></ul>  | Continuando os estudos 
+<ul><li>- [ ] </li></ul>  | Continuando os estudos

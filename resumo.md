@@ -31,3 +31,10 @@ Aqui o autor apresenta o projeto que desenvolveremos no decorrer do livro, o Met
 
 ## Criando o projeto
 Comandos básicos para iniciarmos o projeto. Depois disso já criamos algumas pastas que serão a estrutura da aplicação.
+
+# Implementando uma timeline de posts
+Iniciamos esse capítulo aplicando o conceito de templates, criando um header e um footer para nossa aplicação, depois disso fizemos o template dos posts.
+Com esses templates criados é hora de sermos apresentados ao conceito de `helpers` que são funções que tem como objetivo retornar resultados apresentáveis para os usuários.
+Após entender para que serve um `helper`, passamos pela `Session`, que guarda informações no formato chave-valor no lado do cliente, ou seja, ela não faz nenhuma interação com BD e caso a página seja atualizada, os dados da `Session` serão perdidos.
+Ainda nesse capítulo o autor nos apresenta o conceito de reatividade, ao criarmos `events`, o exemplo dado é para fazermos a inserção de posts na timeline da aplicação. A aplicação fica escutando o evento de submit do formulário para que possa executar a função.
+Chegando no final do capítulo nós vemos como é simples fazer a integração do banco de dados seja pelo `helper` ou `event`.
