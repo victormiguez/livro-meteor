@@ -5,7 +5,7 @@ Pretendo com esse repositório colocar os exercícios desenvolvidos e um [resumo
 Status                    | Capítulo
 ------------------------- | -------------
 <ul><li>- [x] </li></ul>  | Introdução
-<ul><li>- [ ] </li></ul>  | Configurando o ambiente de desenvolvimento
+<ul><li>- [x] </li></ul>  | Configurando o ambiente de desenvolvimento
 <ul><li>- [ ] </li></ul>  | Criando uma rede social real-time
 <ul><li>- [ ] </li></ul>  | Implementando uma timeline de posts
 <ul><li>- [ ] </li></ul>  | Signin e Signup de usuários
