@@ -3,9 +3,7 @@ Template.post.events({
     e.preventDefault();
 
     var textarea = template.find('textarea');
-
-    Posts.insert({message: textarea.value});
-
+    Posts.publish(textarea.value);
     textarea.value = '';
   }
 });

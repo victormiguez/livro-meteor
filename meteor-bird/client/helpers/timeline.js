@@ -1,5 +1,5 @@
 Template.timeline.helpers({
 	posts: function() {
-    return Posts.find({});
+    return Posts.list(Meteor.userId());
   }
 });
