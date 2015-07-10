@@ -38,3 +38,10 @@ Com esses templates criados é hora de sermos apresentados ao conceito de `helpe
 Após entender para que serve um `helper`, passamos pela `Session`, que guarda informações no formato chave-valor no lado do cliente, ou seja, ela não faz nenhuma interação com BD e caso a página seja atualizada, os dados da `Session` serão perdidos.
 Ainda nesse capítulo o autor nos apresenta o conceito de reatividade, ao criarmos `events`, o exemplo dado é para fazermos a inserção de posts na timeline da aplicação. A aplicação fica escutando o evento de submit do formulário para que possa executar a função.
 Chegando no final do capítulo nós vemos como é simples fazer a integração do banco de dados seja pelo `helper` ou `event`.
+
+# Signin e Signup de usuários
+Esse capítulo eu achei que tudo o que acontece é um pouco mágico. Utilizamos o Accounts para gerenciar signin/up, porém ele já vem todo pronto e você não precisa programar nada ao chamar o formulário do Accounts UI Bootstrap 3, já era, o usuário faz signin/up sem você escrever uma linha de código para salvar no banco, etc.
+
+Uma coisa que gostei bastante é o `{{currentUser}}` do `accounts-base`, com ele conseguimos ver se o usuário está logado para mostrar ou não o conteúdo. Caso esteja, podemos já personalizar de acordo com sua conta.
+
+Fechamos o capítulo fazendo integração com o facebook com o package `accounts-facebook`. Com ele nós configuramos o appId e secret gerado pelo facebook e depois podemos configurar facilmente qual o tipo de informação nós queremos do usuário.
