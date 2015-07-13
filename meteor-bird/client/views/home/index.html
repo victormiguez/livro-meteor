@@ -1,6 +1,9 @@
 <template name="home">
   {{#if currentUser}}
-    <section class="col-sm-12">
+    <aside class="col-sm-3">
+      {{> profile}}
+    </aside>
+    <section class="col-sm-9">
       {{> post}}
       {{> timeline}}
     </section>
