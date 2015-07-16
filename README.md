@@ -9,8 +9,8 @@ Status                    | Capítulo
 <ul><li>- [x] </li></ul>  | Criando uma rede social real-time
 <ul><li>- [x] </li></ul>  | Implementando uma timeline de posts
 <ul><li>- [x] </li></ul>  | Signin e Signup de usuários
-<ul><li>- [ ] </li></ul>  | Perfil do usuário
-<ul><li>- [ ] </li></ul>  | Tela de perfil público do usuário
+<ul><li>- [x] </li></ul>  | Perfil do usuário
+<ul><li>- [x] </li></ul>  | Tela de perfil público do usuário
 <ul><li>- [ ] </li></ul>  | Follow me I will follow you
 <ul><li>- [ ] </li></ul>  | Publications e Subscriptions
 <ul><li>- [ ] </li></ul>  | Testes, testes e mais testes
