@@ -3,7 +3,8 @@ Template.post.events({
     e.preventDefault();
 
     var textarea = template.find('textarea');
-    Posts.publish(textarea.value);
+    var name = Meteor.user().profile.name;
+    Posts.publish(textarea.value, name);
     textarea.value = '';
   }
 });

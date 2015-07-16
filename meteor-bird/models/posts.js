@@ -4,7 +4,8 @@ Posts.publish = function(message) {
   this.insert({
     message: message,
     date: new Date(),
-    userId: Meteor.userId()
+    userId: Meteor.userId(),
+    name: name
   });
 };
 

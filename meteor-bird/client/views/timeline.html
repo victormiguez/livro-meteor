@@ -5,7 +5,8 @@
 
       {{#each posts}}
         <blockquote class="lead">
-          <small>{{message}}</small>
+          <p>{{message}}</p>
+          <small>Autor: <a href="{{pathFor route='user' data=userId}}">{{name}}</a></small>
         </blockquote>
         <hr>
       {{else}}
