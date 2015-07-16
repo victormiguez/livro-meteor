@@ -1,6 +1,6 @@
 Posts = new Mongo.Collection('posts');
 
-Posts.publish = function(message) {
+Posts.publish = function(message, name) {
   this.insert({
     message: message,
     date: new Date(),
