@@ -3,7 +3,7 @@
     {{#with user}}
       {{#if isFollowing}}
         <a href="{{pathFor route='user.unfollow'}}" class="btn btn-primary btn-large">Deixar de seguir</a>
-      {{#else}}
+      {{else}}
         <a href="{{pathFor route='user.follow'}}" class="btn btn-primary btn-large">Seguir</a>
       {{/if}}
     {{/with}}
